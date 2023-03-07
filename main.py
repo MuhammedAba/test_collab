@@ -1,0 +1,1 @@
+print("Başarıyla oluşturuldu.")
